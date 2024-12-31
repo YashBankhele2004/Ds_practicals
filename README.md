@@ -1,1 +1,1 @@
-# Ds_practicals
+# Datascince
